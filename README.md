@@ -3,7 +3,7 @@
 
 We started Robo-Geek in 2015 with the mission to make a difference in our students' education.  Curriculum development is always top on my agenda. I usually take time in the summers to develop new material that we use during the school year. 
 
-During the winter break, I decided to summarize part of the material developed and write a book on Robotics Simulation that I am aiming to publish in the fall 2022. This past few weeks, while on a break, it was a great opportunity to organize my thoughts and think about our future curriculum, ensure not only is leading edge but most importantly foundational. 
+During the winter break, it was a great opportunity to organize my thoughts and think about our future curriculum, ensure not only is leading edge but most importantly foundational. 
 
 In the upcoming winter 2022 session, we are proud to present the following curriculum (14 hours):
 
