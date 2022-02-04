@@ -218,7 +218,6 @@ $ idle
 ```
 
 
-
 Open `dual_mobile_robot.py`
 
 <img src="https://github.com/robogeekcanada/winter_2022/blob/main/images/image-20220201105732944.png" />
