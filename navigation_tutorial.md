@@ -114,7 +114,7 @@ target_link_libraries(tf_listener ${catkin_LIBRARIES})
 
 ```bash
 $ cd
-$ cs nav_ws
+$ cd nav_ws
 $ catkin_make
 $ echo 'source ~/nav_ws/devel/setup.bash' >> ~/.bashrc
 $ source ~/.bashrc
